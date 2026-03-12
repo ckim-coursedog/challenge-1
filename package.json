@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/coursedog/gilded_doghouse.git"
+    "url": "git+ssh://git@github.com/ckim-coursedog/challenge-1.git"
   },
-  "author": "Kuba Krzempek",
+  "author": "chung kim",
   "bugs": {
-    "url": "https://github.com/coursedog/gilded_doghouse/issues"
+    "url": "https://github.com/ckim-coursedog/challenge-1/issues"
   },
-  "homepage": "https://github.com/coursedog/gilded_doghouse#readme",
+  "homepage": "https://github.com/ckim-coursedog/challenge-1#readme",
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "jest": "^30.3.0",
